@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/localhost-8000/go-jwt-auth/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/localhost-8000/go-jwt-auth/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/localhost-8000/go-jwt-auth.svg)](https://github.com/localhost-8000/go-jwt-auth/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/localhost-8000/go-jwt-auth.svg)](https://github.com/localhost-8000/go-jwt-auth/pulls)
 <!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) -->
 
 </div>
@@ -36,9 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 You need to have GO installed on your machine. Also, you need to have a PostgreSQL database running on your machine. 
 
-```
-Give examples
-```
+
 
 ### Installing
 
